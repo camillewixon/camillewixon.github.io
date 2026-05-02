@@ -13,4 +13,4 @@ My research is in health economics and public economics, with a focus on reprodu
 
 You can download my CV [here](/files/Camille_Wixon_CV.pdf).
 
-Please feel free to contact me at caw2va@virginia.edu.
+Please feel free to contact me at [caw2va@virginia.edu](mailto:caw2va@virginia.edu).
