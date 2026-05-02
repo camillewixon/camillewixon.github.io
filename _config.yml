@@ -10,7 +10,7 @@ baseurl                  : ""
 
 # Author Information
 author:
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Camille Wixon"
   bio              : "PhD Candidate in Economics at the University of Virginia"
   location         : "Charlottesville, VA"
