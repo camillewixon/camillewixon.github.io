@@ -1,7 +1,5 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
   - title: "CV"
     url: /files/Camille_Wixon_CV.pdf
