@@ -1,14 +1,9 @@
----
-permalink: /
-title: "Camille Wixon"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I am a PhD candidate in Economics at the University of Virginia. I will be on the academic job market in 2026–2027.
 
-I'm a third year PhD student at the University of Virginia stufying economics. Previously, I worked as an equities desk analyst at Barclays in New York. 
+My research is in health economics and public economics, with a focus on reproductive health. I study how prices, insurance coverage, and product design shape contraceptive choices and access.
 
-My research interests include labor economics, industrial organization and public economics. Please see my CV [here](https://camillewixon.github.io/files/Wixon_Camille_Resume_Spring_2024.pdf)
+My job market paper examines how out-of-pocket costs affect sterilization decisions. In related work, I study how firms make product labeling decisions that change the effective duration of long-acting contraceptives.
 
-Please feel free to contact me at caw2va@virginia.edu. My interests outside of economics include hiking/backpacking, white water kayaking, cooking, and indie folk music.
+You can download my CV [here](/files/Camille_Wixon_CV.pdf).
+
+Please feel free to contact me at caw2va@virginia.edu.
