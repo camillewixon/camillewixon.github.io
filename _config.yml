@@ -3,9 +3,6 @@ locale                   : "en-US"
 title                    : "Camille Wixon"
 name                     : "Camille Wixon"
 description              : "PhD Candidate in Economics | Health Economics and Industrial Organization"
-theme: minima
-plugins:
-  - jekyll-feed
 url                      : "https://camillewixon.github.io"
 repository               : "camillewixon/camillewixon.github.io"
 title_separator          : "-"
